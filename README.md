@@ -191,9 +191,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [RingPartner](http://ringpartner.com/) (👩‍💻 Co-Op / Intern Friendly)
 
 #### [Rooof](http://www.rooof.com) (👩‍💻 Co-Op / Intern Friendly)
-* [Software Tester (Co-op)](https://rooof.bamboohr.com/jobs/view.php?id=42)
+* [Software Engineer (Back-End)](https://rooof.bamboohr.com/jobs/view.php?id=44)
 * [UX/UI Designer](https://rooof.bamboohr.com/jobs/view.php?id=41)
-* [Administrative Assistant](https://rooof.bamboohr.com/jobs/view.php?id=43)
 
 #### [Ruboss](http://ruboss.com/)
 
